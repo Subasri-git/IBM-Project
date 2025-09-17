@@ -201,4 +201,6 @@ No external REST APIs used. Instead, internal **Gradio functions act like APIs**
 - Add **charts & health/safety visualizations**.  
 - Deploy outside Colab for easier access.  
 - Fine-tune model for better accuracy.  
-- Add **multi-language support**.  
+- Add **multi-language support**.
+
+video link: [Live link](https://drive.google.com/file/d/11CTE7IdskaNkWAs0TnE5KevbQ57kXMrc/view?usp=drive_link)
